@@ -15,6 +15,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/', function () {
-    return view('otra_vista');
+Route::get('testTable', function(){
+    $test = Test::where('descripcion','test1')->first();
+    dd($test);
 });
