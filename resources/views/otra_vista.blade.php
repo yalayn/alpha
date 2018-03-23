@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Es otra vista carajo, me costo llegar aca.
+                    Es otra vista carajo
                 </div>
 
                 <div class="links">
